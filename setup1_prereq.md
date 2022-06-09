@@ -88,8 +88,8 @@ python manage.py startapp projects
 ```
 
 > Note: Required step everytime you add an app:
-> Go to settings.py in main project and add the new app (class name in app.py) in the INSTALLED_APPS list
-> the class name is usually called 'PagesConfig'
+- Go to settings.py in main project and add the new app 
+- Add the class name included in the Apps.py in the INSTALLED_APPS list
 
 ```sh
 INSTALLED_APPS = [
