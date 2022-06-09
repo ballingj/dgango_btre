@@ -47,11 +47,11 @@ deactivate
 env\scripts\deactivate
 ```
 
-> NOTE:  Install packages while in the virtual environment to avoid installing in global settings
 ### Install Django 
 ```sh
 pip install django
 ```
+> NOTE:  Install packages while in the virtual environment to avoid installing in global settings
 
 # More Commands
 
